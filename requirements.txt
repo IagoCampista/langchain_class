@@ -12,3 +12,8 @@ mistralai
 langchain-mistralai
 cohere
 langchain-cohere
+langchain_experimental
+duckduckgo_search
+wikipedia
+ddgs
+pandas-datareader
