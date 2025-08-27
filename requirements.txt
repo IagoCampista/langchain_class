@@ -17,3 +17,9 @@ duckduckgo_search
 wikipedia
 ddgs
 pandas-datareader
+langchain_openai
+langgraph
+graphviz
+scikit-learn
+matplotlib
+sentence-transformers
