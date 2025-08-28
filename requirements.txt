@@ -26,3 +26,4 @@ sentence-transformers
 pinecone
 langchainhub
 langchain_huggingface
+langchain_chroma
