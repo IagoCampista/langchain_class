@@ -24,3 +24,5 @@ scikit-learn
 matplotlib
 sentence-transformers
 pinecone
+langchainhub
+langchain_huggingface
