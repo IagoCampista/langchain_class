@@ -28,3 +28,4 @@ langchainhub
 langchain_huggingface
 langchain_chroma
 langchain_pinecone
+pypdf
